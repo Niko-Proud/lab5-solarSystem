@@ -1,0 +1,16 @@
+footer {
+    padding: 35px;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 18pt;
+    margin: auto;
+}
+
